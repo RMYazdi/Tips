@@ -6,7 +6,7 @@ Google dataserach toolbox: https://toolbox.google.com/datasetsearch
 
 Kaggle:                  : https://www.kaggle.com/
 
-CRCV computer vision data: https://www.crcv.ucf.edu/data/UCF101.php
+CRCV computer vision data: https://www.crcv.ucf.edu/data
 
 COCO                     : http://cocodataset.org/#home
 
