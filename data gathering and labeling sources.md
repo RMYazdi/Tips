@@ -1,4 +1,4 @@
-These are some reliable sources for finding train data for DL/ML projects:
+****These are some reliable sources for finding train data for DL/ML projects:
 
 
 
@@ -20,7 +20,7 @@ UCI:                     : https://archive.ics.uci.edu/ml/index.php
 
 
 
-Labeling tools:
+***Labeling tools:
 
 
 
