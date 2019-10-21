@@ -10,13 +10,13 @@ CRCV computer vision data: https://www.crcv.ucf.edu/data
 
 COCO                     : http://cocodataset.org/#home
 
-Public Data:             : serach " Open data +  **name of city/organization** "
 
 UCI:                     : https://archive.ics.uci.edu/ml/index.php
 
 Youtube8m                :https://research.google.com/youtube8m/
 
 
+Public Data:             : serach " Open data +  **name of city/organization** "
 
 
 
