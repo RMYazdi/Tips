@@ -19,8 +19,7 @@ Youtube8m                :https://research.google.com/youtube8m/
 Public Data:             : serach " Open data +  **name of city/organization** "
 
 
-
-
+((For Vision classification problem, try Mnist data just in case!))
 
 
 ***Labeling tools:
