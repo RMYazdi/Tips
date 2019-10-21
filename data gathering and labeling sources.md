@@ -1,4 +1,4 @@
-These are some reliable sources for finding train data for DL/ML projects:sdsd
+These are some reliable sources for finding train data for DL/ML projects:
 
 Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 Kaggle:                  : https://www.kaggle.com/
