@@ -16,6 +16,15 @@ UCI:                     : https://archive.ics.uci.edu/ml/index.php
 Youtube8m                :https://research.google.com/youtube8m/
 
 
+ImageNet                 :http://www.image-net.org/
+
+Open Images Dataset      :https://opensource.google/projects/open-images-dataset
+
+Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
+
+
+
+
 Public Data:             : serach " Open data +  **name of city/organization** "
 
 
