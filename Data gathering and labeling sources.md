@@ -25,7 +25,7 @@ Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
 
 
 
-Public Data:             : serach " Open data +  **name of city/organization** "
+Public Data:             : serach " Open data +  **name of city/organization** "  like:https://data.lacity.org/
 
 
 ((For Vision classification problem, try Mnist data just in case!))
