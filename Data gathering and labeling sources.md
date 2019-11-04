@@ -33,7 +33,7 @@ Public Data:             : serach " **name of city/organization** + Open data   
 ((For Vision classification problem, try Mnist data just in case!))
 
 
-***Labeling tools:
+****Labeling tools:
 
 
 
