@@ -24,6 +24,21 @@ Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
 
 Visual Tracker Benchmark :http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
+Deep Learning Data       :http://deeplearning.net/datasets/
+
+Wikipedia guide          :https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
+Pathmind                 :https://pathmind.com/wiki/open-datasets
+
+
+Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+
+
+
+
+
+
+
 
 
 
@@ -31,6 +46,13 @@ Public Data:             : serach " **name of city/organization** + Open data   
 
 
 ((For Vision classification problem, try Mnist data just in case!))
+
+
+
+
+
+
+
 
 
 ****Labeling tools:
@@ -44,3 +66,8 @@ lableEM :http://www.fexovi.com/sefexa.html
 Sefexa: http://www.fexovi.com/sefexa.html
 
 UEA computer vision :https://bitbucket.org/account/user/ueacomputervision/projects/PROJ
+
+
+
+
+
