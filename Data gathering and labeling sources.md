@@ -22,6 +22,10 @@ Open Images Dataset      :https://opensource.google/projects/open-images-dataset
 
 Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
 
+MNIST                    :http://yann.lecun.com/exdb/mnist/
+  
+CIFAR                    :https://www.cs.toronto.edu/~kriz/cifar.html
+
 Visual Tracker Benchmark :http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
 Deep Learning Data       :http://deeplearning.net/datasets/
