@@ -44,7 +44,7 @@ Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehen
 Google landmarks         :https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html?m=1
 
 
-CV CenterUni of Barcelona, Catalonia (Spain)    :http://chalearnlap.cvc.uab.es/
+Computer Vision Center, University of Barcelona, Catalonia (Spain)    :http://chalearnlap.cvc.uab.es/
 
 
 
