@@ -4,6 +4,8 @@
 
 Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 
+Map data:                : maps.arcgis.com
+
 CRCV computer vision data: https://www.crcv.ucf.edu/data
 
 COCO                     : http://cocodataset.org/#home
@@ -18,9 +20,10 @@ Twitter:                 :https://developer.twitter.com/en/docs
 
 Government Data          :https://www.data.gov/
 
-US Transportation Data                         :https://data.transportation.gov/
+US Transportation Data   :https://data.transportation.gov/
 
 Youtube8m                :https://research.google.com/youtube8m/
+
 
 
 ImageNet                 :http://www.image-net.org/
