@@ -4,7 +4,7 @@
 
 Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 
-Map data:                : maps.arcgis.com
+Map data:                : https://maps.arcgis.com
 
 CRCV computer vision data: https://www.crcv.ucf.edu/data
 
