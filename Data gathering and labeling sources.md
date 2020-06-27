@@ -64,7 +64,10 @@ Public Data:             : serach " **name of city/organization** + Open data   
 human robot interaction dataset:    https://sites.google.com/view/data-driven-robotics/
 
 
-Human Metabolome Database (HMDB)\molecule metabolites found in the human body :  https://hmdb.ca/
+Human Metabolome Database \molecule metabolites found in the human body :  https://hmdb.ca/
+
+
+HMDB: a large human motion database: https://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/#Downloads
 
 
 
