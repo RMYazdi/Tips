@@ -76,6 +76,16 @@ Breast Cancer : https://data.mendeley.com/datasets/w7jjcx7gj6/1
 Mendeley, Research Data : https://data.mendeley.com/
 
 
+
+
+
+
+
+**** Picked:
+
+https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+
+
 ****Labeling tools:
 
 
