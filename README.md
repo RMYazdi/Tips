@@ -1,2 +1,2 @@
 
-The repository introduces useful tips for boosting your projects.
+The repository introduces useful tips for boosting your ML, CS and Startup tasks.
