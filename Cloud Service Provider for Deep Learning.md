@@ -1,5 +1,8 @@
 **Source: https://towardsdatascience.com/list-of-deep-learning-cloud-service-providers-579f2c769ed6
 
+
+Vast.ai https://vast.ai
+
 Alibaba https://www.alibabacloud.com
 
 AWS EC2 https://aws.amazon.com/machine-learning/amis
@@ -65,4 +68,3 @@ Tensorpad https://www.tensorpad.com
 
 Thoplam https://www.thoplam.com/
 
-Vast.ai https://vast.ai
