@@ -1,5 +1,8 @@
 **Source: https://towardsdatascience.com/list-of-deep-learning-cloud-service-providers-579f2c769ed6
 
+Google Cloud https://cloud.google.com/products/ai
+
+Google Colab https://colab.research.google.com
 
 Vast.ai https://vast.ai
 
@@ -10,7 +13,6 @@ AWS EC2 https://aws.amazon.com/machine-learning/amis
 AWS Sagemaker https://aws.amazon.com/sagemaker
 
 Cirrascale http://www.cirrascale.com
-
 
 Cogeco Peer 1 https://www.cogecopeer1.com
 
@@ -25,10 +27,6 @@ Exoscale https://www.exoscale.com
 FloydHub https://www.floydhub.com
 
 Genesis Cloud https://www.genesiscloud.com/
-
-Google Cloud https://cloud.google.com/products/ai
-
-Google Colab https://colab.research.google.com
 
 GPUEater https://www.gpueater.com
 
