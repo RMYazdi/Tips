@@ -1,2 +1,2 @@
 
-The repository, offers various tips to boost your projects. 
+The repository introduces various tips to boost your projects. 
