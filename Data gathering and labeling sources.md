@@ -76,6 +76,10 @@ Breast Cancer : https://data.mendeley.com/datasets/w7jjcx7gj6/1
 Mendeley, Research Data : https://data.mendeley.com/
 
 
+****NLP
+Series 1: https://rishabhmisra.github.io/publications/
+
+
 
 
 
