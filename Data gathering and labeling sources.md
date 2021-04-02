@@ -5,6 +5,10 @@
 
 Google Awesone Data :https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.134006282.52650763.1613139752-687816140.1613139752&pli=1
 
+
+https://wiki.pathmind.com/open-datasets: List of open datasets
+
+
 TensorFlow Data Services(TFTS) Library
 
 Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
