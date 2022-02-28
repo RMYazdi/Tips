@@ -41,7 +41,7 @@ SNAP : https://snap.stanford.edu/data/
 Cora Dastaset : https://graphsandnetworks.com/the-cora-dataset/
 #
 
-### Map data:                
+### Map data               
 https://maps.arcgis.com
 
 A dataset of building footprints to support social good applications.: https://sites.research.google/open-buildings/
