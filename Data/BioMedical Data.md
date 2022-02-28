@@ -2,9 +2,8 @@ UK bio bank:  https://www.ukbiobank.ac.uk/
 
 https://radiopaedia.org/articles/imaging-data-sets-artificial-intelligence?lang=us
 
-BioMedical Images:https://github.com/sfikas/medical-imaging-datasets
-                  
-                  https://github.com/beamandrew/medical-data
+BioMedical Images:1.https://github.com/sfikas/medical-imaging-datasets
+                  2.https://github.com/beamandrew/medical-data
 
 https://www.eurobioimaging.eu/data/itr
 
