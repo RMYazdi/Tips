@@ -19,27 +19,45 @@ https://wiki.pathmind.com/open-datasets: List of open datasets
 
 Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
 
+#
+
+### NLP
+Series 1: https://rishabhmisra.github.io/publications/
+#
 
 
 
+### Picked:
+
+Collection of high quality datasets:  https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+#
 
 
+
+### Graph Data**
+
+SNAP : https://snap.stanford.edu/data/
+
+Cora Dastaset : https://graphsandnetworks.com/the-cora-dataset/
+#
+
+### Map data:                
+https://maps.arcgis.com
+
+A dataset of building footprints to support social good applications.: https://sites.research.google/open-buildings/
 
 #
 
 
+### Object detection Open Images Dataset      
+https://opensource.google/projects/open-images-dataset
+#
+
 Driveless car data: https://scale.com/open-datasets?utm_campaign=dataset_subscription
-
-
-
 
 TensorFlow Data Services(TFTS) Library
 
 Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
-
-
-### Map data:                : https://maps.arcgis.com
-#
 
 CRCV computer vision data: https://www.crcv.ucf.edu/data
 
@@ -53,6 +71,8 @@ CIFAR                    :https://www.cs.toronto.edu/~kriz/cifar.html
 
 Yelp:                    :https://www.yelp.com/dataset
 
+ImageNet:                :http://www.image-net.org/
+
 Twitter:                 :https://developer.twitter.com/en/docs
 
 Government Data          :https://www.data.gov/
@@ -61,14 +81,6 @@ US Transportation Data   :https://data.transportation.gov/
 
 Youtube8m                :https://research.google.com/youtube8m/
 
-
-ImageNet                 :http://www.image-net.org/
-
-### Object detection Open Images Dataset      :https://opensource.google/projects/open-images-dataset
-#
-
-
-
 Visual Tracker Benchmark :http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
 Deep Learning Data       :http://deeplearning.net/datasets/
@@ -76,9 +88,6 @@ Deep Learning Data       :http://deeplearning.net/datasets/
 Wikipedia guide          :https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
 Google landmarks         :https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html?m=1
-
-
-A dataset of building footprints to support social good applications.: https://sites.research.google/open-buildings/
 
 
 Computer Vision Center, University of Barcelona, Catalonia (Spain)    :http://chalearnlap.cvc.uab.es/
@@ -102,28 +111,6 @@ HMDB: a large human motion database: https://serre-lab.clps.brown.edu/resource/h
 Mendeley, Research Data : https://data.mendeley.com/
 
 
-### NLP
-Series 1: https://rishabhmisra.github.io/publications/
-#
-
-
-
-
-
-
-### Picked:
-
-Collection of high quality datasets:  https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
-#
-
-
-
-### Graph Data**
-
-SNAP : https://snap.stanford.edu/data/
-
-Cora Dastaset : https://graphsandnetworks.com/the-cora-dataset/
-#
 
 
 
