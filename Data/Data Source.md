@@ -2,9 +2,19 @@
 
 
 
+### Data Search:
+
+
+UCI:                     : https://archive.ics.uci.edu/ml/index.php
+
+Kaggle:                  : https://www.kaggle.com/
+
+Data World               :https://data.world/datasets
+
+Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 
 Google Awesone Data :https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.134006282.52650763.1613139752-687816140.1613139752&pli=1
-
+###
 
 
 Driveless car data: https://scale.com/open-datasets?utm_campaign=dataset_subscription
@@ -18,7 +28,6 @@ TensorFlow Data Services(TFTS) Library
 
 Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
 
-Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 
 Map data:                : https://maps.arcgis.com
 
@@ -26,11 +35,6 @@ CRCV computer vision data: https://www.crcv.ucf.edu/data
 
 COCO                     : http://cocodataset.org/#home
 
-UCI:                     : https://archive.ics.uci.edu/ml/index.php
-
-Kaggle:                  : https://www.kaggle.com/
-
-Data World               :https://data.world/datasets
 
 Yelp:                    :https://www.yelp.com/dataset
 
