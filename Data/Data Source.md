@@ -19,6 +19,8 @@ https://wiki.pathmind.com/open-datasets: List of open datasets
 
 Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
 
+Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
+
 
 
 ### NLP
@@ -56,8 +58,6 @@ https://opensource.google/projects/open-images-dataset
 Driveless car data: https://scale.com/open-datasets?utm_campaign=dataset_subscription
 
 TensorFlow Data Services(TFTS) Library
-
-Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
 
 CRCV computer vision data: https://www.crcv.ucf.edu/data
 
