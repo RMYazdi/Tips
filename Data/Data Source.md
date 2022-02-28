@@ -2,7 +2,7 @@
 
 
 
-### Data Search:
+### Data Search
 
 
 UCI:                     : https://archive.ics.uci.edu/ml/index.php
