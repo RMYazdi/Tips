@@ -34,7 +34,7 @@ Collection of high quality datasets:  https://www.analyticsvidhya.com/blog/2018/
 
 
 
-### Graph Data**
+### Graph Data
 
 SNAP : https://snap.stanford.edu/data/
 
