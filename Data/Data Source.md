@@ -13,7 +13,18 @@ Data World               :https://data.world/datasets
 
 Google dataserach toolbox: https://toolbox.google.com/datasetsearch  
 
-Google Awesone Data :https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.134006282.52650763.1613139752-687816140.1613139752&pli=1
+Google Awesome Data :https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.134006282.52650763.1613139752-687816140.1613139752&pli=1
+
+https://wiki.pathmind.com/open-datasets: List of open datasets
+
+Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+
+
+
+
+
+
+
 #
 
 
@@ -21,20 +32,24 @@ Driveless car data: https://scale.com/open-datasets?utm_campaign=dataset_subscri
 
 
 
-https://wiki.pathmind.com/open-datasets: List of open datasets
-
 
 TensorFlow Data Services(TFTS) Library
 
 Awesome public dataset:   https://github.com/RMYazdi/awesome-public-datasets
 
 
-Map data:                : https://maps.arcgis.com
+### Map data:                : https://maps.arcgis.com
+#
 
 CRCV computer vision data: https://www.crcv.ucf.edu/data
 
 COCO                     : http://cocodataset.org/#home
 
+Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
+
+MNIST                    :http://yann.lecun.com/exdb/mnist/
+  
+CIFAR                    :https://www.cs.toronto.edu/~kriz/cifar.html
 
 Yelp:                    :https://www.yelp.com/dataset
 
@@ -47,29 +62,18 @@ US Transportation Data   :https://data.transportation.gov/
 Youtube8m                :https://research.google.com/youtube8m/
 
 
-
 ImageNet                 :http://www.image-net.org/
 
-Object detection Open Images Dataset      :https://opensource.google/projects/open-images-dataset
+### Object detection Open Images Dataset      :https://opensource.google/projects/open-images-dataset
+#
 
-Pascal VOC               :http://host.robots.ox.ac.uk/pascal/VOC/
 
-MNIST                    :http://yann.lecun.com/exdb/mnist/
-  
-CIFAR                    :https://www.cs.toronto.edu/~kriz/cifar.html
 
 Visual Tracker Benchmark :http://cvlab.hanyang.ac.kr/tracker_benchmark/datasets.html
 
 Deep Learning Data       :http://deeplearning.net/datasets/
 
 Wikipedia guide          :https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
-
-Pathmind                 :https://pathmind.com/wiki/open-datasets
-
-
-Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
-
-
 
 Google landmarks         :https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html?m=1
 
@@ -98,27 +102,28 @@ HMDB: a large human motion database: https://serre-lab.clps.brown.edu/resource/h
 Mendeley, Research Data : https://data.mendeley.com/
 
 
-****NLP
+### NLP
 Series 1: https://rishabhmisra.github.io/publications/
+#
 
 
 
 
 
 
-
-**** Picked:
+### Picked:
 
 Collection of high quality datasets:  https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
+#
 
 
 
-
-****Graph Data**
+### Graph Data**
 
 SNAP : https://snap.stanford.edu/data/
 
 Cora Dastaset : https://graphsandnetworks.com/the-cora-dataset/
+#
 
 
 
