@@ -30,6 +30,8 @@ UCI:                     : https://archive.ics.uci.edu/ml/index.php
 
 Kaggle:                  : https://www.kaggle.com/
 
+Data World               :https://data.world/datasets
+
 Yelp:                    :https://www.yelp.com/dataset
 
 Twitter:                 :https://developer.twitter.com/en/docs
