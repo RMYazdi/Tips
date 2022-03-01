@@ -22,11 +22,8 @@ https://www.medicmind.tech/cancer-imaging-data
 
 ### Breast Cancer
 list of data : https://github.com/MIMBCD-UI/meta/wiki/Datasets
-
-https://data.mendeley.com/datasets/w7jjcx7gj6/1
-
 https://github.com/mateuszbuda/duke-dbt-detection
-
+https://data.mendeley.com/datasets/w7jjcx7gj6/1
 https://wiki.cancerimagingarchive.net/display/Public/BREAST-DIAGNOSIS
 
 MIAS (Suckling et al., 2015)	Mammogram	https://www.repository.cam.ac.uk/handle/1810/250394
