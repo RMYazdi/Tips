@@ -29,7 +29,7 @@ https://data.mendeley.com/datasets/w7jjcx7gj6/1
 
 https://wiki.cancerimagingarchive.net/display/Public/BREAST-DIAGNOSIS
 
-MIAS (Suckling et al., 2015)	Mammogram	https://www.repository.cam.ac.uk/handle/1810/250394
+MIAS (Suckling et al., 2015)	Mammogram	https://www.repository.cam.ac.uk/handle/1810/250394   |   https://www.kaggle.com/kmader/mias-mammography
 
 BCDR (Moura & López, 2013)	Mammogram	https://bcdr.ceta-ciemat.es/information/about
 
