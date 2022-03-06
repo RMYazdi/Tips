@@ -33,7 +33,7 @@ https://data.mendeley.com/datasets/w7jjcx7gj6/1
 
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
-https://wiki.cancerimagingarchive.net/display/Public/BREAST-DIAGNOSIS
+MIDA: https://wiki.cancerimagingarchive.net/display/Public/BREAST-DIAGNOSIS
 
 
 MIAS (Suckling et al., 2015)	Mammogram	https://www.repository.cam.ac.uk/handle/1810/250394   |   https://www.kaggle.com/kmader/mias-mammography
