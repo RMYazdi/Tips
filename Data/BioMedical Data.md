@@ -61,14 +61,14 @@ https://www.eurobioimaging.eu/data/itr
 
 Chest X-ray large dataset: NIH Chest X-ray8 (https://nihcc.app.box.com/v/ChestXray-NIHCC) 
 
+#
 
 
 
 
 
 
-
-Cancer Genomics Data: portal.gdc.cancer.gov
+Cancer Genomics Data: https://portal.gdc.cancer.gov
 TCGA slides image are also available here.
 
 
