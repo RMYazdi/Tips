@@ -15,6 +15,8 @@ Google dataserach toolbox: https://toolbox.google.com/datasetsearch
 
 Google Awesome Data :https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.134006282.52650763.1613139752-687816140.1613139752&pli=1
 
+https://storage.googleapis.com/openimages/web/index.html
+
 https://wiki.pathmind.com/open-datasets: List of open datasets
 
 Analyticsvidhy Guide     :https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/
