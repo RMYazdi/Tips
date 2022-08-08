@@ -10,7 +10,12 @@ https://zenodo.org/
 
 UK bio bank:  https://www.ukbiobank.ac.uk/
 
+***Euro bioimaging : https://www.eurobioimaging.eu/data/itr
 
+
+
+#
+### Body parts
 
 Thyroid ultrasoun :https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9287/92870W/An-open-access-thyroid-ultrasound-image-database/10.1117/12.2073532.short?SSO=1
 
@@ -25,6 +30,7 @@ Brain : https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 Lung : https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
 
 
+#
 ### Cancer 
 https://www.cancerimagingarchive.net/access-data/
 
@@ -33,23 +39,13 @@ https://www.medicmind.tech/cancer-imaging-data
 
 
 
-### Breast Cancer
+#### Breast Cancer
 
-Breast Ultrasound: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
-Knee MRI : https://stanfordmlgroup.github.io/competitions/mrnet/
-Chest CT : http://ncov-ai.big.ac.cn/download?lang=en
 Brain : https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 
-
-
-
-
+list of data : https://github.com/MIMBCD-UI/meta/wiki/Datasets
 
 https://mimbcd-ui.github.io/dataset-uta4-dicom/web/index.html
-
-
-
-list of data : https://github.com/MIMBCD-UI/meta/wiki/Datasets
 
 https://github.com/mateuszbuda/duke-dbt-detection
 
@@ -58,7 +54,6 @@ https://data.mendeley.com/datasets/w7jjcx7gj6/1
 https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
 MIDA: https://wiki.cancerimagingarchive.net/display/Public/BREAST-DIAGNOSIS
-
 
 MIAS (Suckling et al., 2015)	Mammogram	https://www.repository.cam.ac.uk/handle/1810/250394   |   https://www.kaggle.com/kmader/mias-mammography
 
@@ -77,20 +72,11 @@ WBCD (Wolberg & Mangasarian, 1990)	Multimodality	https://archive.ics.uci.edu/ml/
 WDBC (Wolberg et al., 1992)	Multimodality	http://networkrepository.com/breast-cancer-wisconsin-wdbc.php
 
 IRMA (Oliveira et al., 2008)	Mammogram	https://data.world/datasets/irma
-#
-
-
-
-https://www.eurobioimaging.eu/data/itr
 
 Chest X-ray large dataset: NIH Chest X-ray8 (https://nihcc.app.box.com/v/ChestXray-NIHCC) 
 
+
 #
-
-
-
-
-
 ### Genomics
 Cancer Genomics Data: https://portal.gdc.cancer.gov
 cbioportal.org
