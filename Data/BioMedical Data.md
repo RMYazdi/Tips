@@ -12,6 +12,19 @@ UK bio bank:  https://www.ukbiobank.ac.uk/
 
 
 
+Thyroid ultrasoun :https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9287/92870W/An-open-access-thyroid-ultrasound-image-database/10.1117/12.2073532.short?SSO=1
+
+Breast Ultrasound: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+
+Knee MRI : https://stanfordmlgroup.github.io/competitions/mrnet/
+
+Chest CT : http://ncov-ai.big.ac.cn/download?lang=en
+
+Brain : https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
+
+Lung : https://www.kaggle.com/c/rsna-pneumonia-detection-challenge
+
+
 ### Cancer 
 https://www.cancerimagingarchive.net/access-data/
 
@@ -19,7 +32,18 @@ https://www.medicmind.tech/cancer-imaging-data
 
 
 
+
 ### Breast Cancer
+
+Breast Ultrasound: https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+Knee MRI : https://stanfordmlgroup.github.io/competitions/mrnet/
+Chest CT : http://ncov-ai.big.ac.cn/download?lang=en
+Brain : https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
+
+
+
+
+
 
 https://mimbcd-ui.github.io/dataset-uta4-dicom/web/index.html
 
