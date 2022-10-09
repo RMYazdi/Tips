@@ -44,7 +44,11 @@ Collection of high quality datasets:  https://www.analyticsvidhya.com/blog/2018/
 
 SNAP : https://snap.stanford.edu/data/
 
+       https://ogb.stanford.edu/
+
+
 Cora Dastaset : https://graphsandnetworks.com/the-cora-dataset/
+
 
 
 ### Map data               
