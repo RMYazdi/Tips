@@ -10,4 +10,8 @@ Adobe firefly
 Bing Image creator
 Dalle
 Runway
-Midjourney
+Midjourney 
+
+
+**Psoter Designer:
+Microsoft Designer 
