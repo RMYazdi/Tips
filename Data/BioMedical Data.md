@@ -86,4 +86,7 @@ cbioportal.org
 TCGA slides image are also available here.
 
 
+داده‌پایگاه‌های Gene Expression Omnibus و Short Read Archive
+https://academic.oup.com/bioinformatics/article/39/3/btad069/7066913?login=false
+
 
