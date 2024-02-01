@@ -92,7 +92,7 @@ https://academic.oup.com/bioinformatics/article/39/3/btad069/7066913?login=false
 
 
 #
-### update 2024
+### Update 2024
 
 
 
@@ -138,8 +138,8 @@ Here are eighteen datasets you can benefit from in building #machinelearning mod
 
 
 
-3D multimodal medical imaging datasets (INSPECT):
+## Multi-Modal:
 
-  https://som-shahlab.github.io/inspect-website/
+  3D multimodal medical imaging datasets (INSPECT):  https://som-shahlab.github.io/inspect-website/
 
 
