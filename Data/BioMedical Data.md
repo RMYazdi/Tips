@@ -37,11 +37,6 @@ https://www.cancerimagingarchive.net/access-data/
 
 https://www.medicmind.tech/cancer-imaging-data
 
-
-
-
-#### Breast Cancer
-
 Brain : https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
 
 list of data : https://github.com/MIMBCD-UI/meta/wiki/Datasets
