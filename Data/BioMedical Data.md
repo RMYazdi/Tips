@@ -138,7 +138,7 @@ Here are eighteen datasets you can benefit from in building #machinelearning mod
 
 
 
-## Multi-Modal:
+## Multi-Modal
 
   3D multimodal medical imaging datasets (INSPECT):  https://som-shahlab.github.io/inspect-website/
 
