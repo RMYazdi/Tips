@@ -94,43 +94,52 @@ https://academic.oup.com/bioinformatics/article/39/3/btad069/7066913?login=false
 #
 ### update 2024
 
-Reference: https://www.linkedin.com/posts/amlearning_machinelearning-machinelearning-artificialintelligence-activity-7156659811428757504-592f?utm_source=share&utm_medium=member_android![image](https://github.com/RMYazdi/Tips/assets/43614153/0c87b13f-cd62-4614-b932-510f737bed4c)
 
 
-Here are eighteen datasets you can benefit from in building #machinelearning models for drug discovery, target identification, disease diagnostics and other healthcare related problems.
+Here are eighteen datasets you can benefit from in building #machinelearning models for drug discovery, target identification, disease diagnostics and other healthcare related problems.(** Reference: https://shorturl.at/uALXY)
 
-1. TCGA (The Cancer Genome Atlas): molecular characterization of over 20,000 primary cancer and matched normal samples spanning 33 cancer types 
+  
+  1. TCGA (The Cancer Genome Atlas): molecular characterization of over 20,000 primary cancer and matched normal samples spanning 33 cancer types 
+  
+  2. AlphaFold DB: open access to over 200 million protein structure predictions to accelerate scientific research
+  
+  3. Open Targets: Integration of public domain data to enable target identification and prioritization
+  
+  4. ChEMBL: database of millions of molecules bringing bioactivity and genomic data to aid the translation of genomic information into effective new drugs
+  
+  5. TCIA (The Cancer Imaging Archive): supply of millions of de-identified and highly curated radiology and histopathology images
+  
+  6. DepMap: CRISPR knockout screens and genomic characterization data in cancer cell lines
+  
+  7. RxRx: Millions of Human cell imaging data revealing relationships across genes and chemical compounds 
+  
+  8. MIMIC: health data associated with thousands of intensive care unit admissions
+  
+  9. VinDr-CXR: more than 100,000 chest X-ray (partial annotation by radiologists)
+  
+  10. STRING: biological database and web resource of known and predicted protein–protein interactions
+  
+  11. Drugbank: database containing information on drugs and drug targets
+  
+  12. VirHostNet: database of virus-virus, virus-host and host-host interaction networks coupled to their functional annotations
+  
+  13. PeptideAtlas: multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments.
+  
+  14. Uniprot: high-quality, comprehensive and freely accessible resource of protein sequence and functional information
+  
+  15. PDB (Protein Data Bank): 3D structure data for large biological molecules (proteins, DNA, and RNA)
+  
+  16. MMHCdb (Mouse Models of Human Cancer Database): expertly curated resource of diverse mouse models of human cancer
+  
+  17. PCAWG (Pancancer Analysis of Whole Genomes): more than 2,600 cancer whole genomes from the International Cancer Genome Consortium
+  
+  18. Single cell expression atlas: Expression data of millions of cells across different species
 
-2. AlphaFold DB: open access to over 200 million protein structure predictions to accelerate scientific research
 
-3. Open Targets: Integration of public domain data to enable target identification and prioritization
 
-4. ChEMBL: database of millions of molecules bringing bioactivity and genomic data to aid the translation of genomic information into effective new drugs
 
-5. TCIA (The Cancer Imaging Archive): supply of millions of de-identified and highly curated radiology and histopathology images
+3D multimodal medical imaging datasets (INSPECT):
 
-6. DepMap: CRISPR knockout screens and genomic characterization data in cancer cell lines
+  https://som-shahlab.github.io/inspect-website/
 
-7. RxRx: Millions of Human cell imaging data revealing relationships across genes and chemical compounds 
 
-8. MIMIC: health data associated with thousands of intensive care unit admissions
-
-9. VinDr-CXR: more than 100,000 chest X-ray (partial annotation by radiologists)
-
-10. STRING: biological database and web resource of known and predicted protein–protein interactions
-
-11. Drugbank: database containing information on drugs and drug targets
-
-12. VirHostNet: database of virus-virus, virus-host and host-host interaction networks coupled to their functional annotations
-
-13. PeptideAtlas: multi-organism, publicly accessible compendium of peptides identified in a large set of tandem mass spectrometry proteomics experiments.
-
-14. Uniprot: high-quality, comprehensive and freely accessible resource of protein sequence and functional information
-
-15. PDB (Protein Data Bank): 3D structure data for large biological molecules (proteins, DNA, and RNA)
-
-16. MMHCdb (Mouse Models of Human Cancer Database): expertly curated resource of diverse mouse models of human cancer
-
-17. PCAWG (Pancancer Analysis of Whole Genomes): more than 2,600 cancer whole genomes from the International Cancer Genome Consortium
-
-18. Single cell expression atlas: Expression data of millions of cells across different species
