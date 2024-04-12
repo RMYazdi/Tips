@@ -150,10 +150,8 @@ Here are eighteen datasets you can benefit from in building #machinelearning mod
 
 
 -----------------------
-## 
 
-Here are eighteen datasets you can benefit from in building hashtag#machinelearning models for drug discovery, target identification, disease diagnostics and other healthcare related problems.
-(Courtesy: Morteza Ahmadi)
+## Here are eighteen datasets you can benefit from in building ML models for drug discovery, target identification, disease diagnostics and other healthcare-related problems. (Courtesy: ALI MADANI)
 
 1. TCGA (The Cancer Genome Atlas): molecular characterization of over 20,000 primary cancer and matched normal samples spanning 33 cancer types 
 
