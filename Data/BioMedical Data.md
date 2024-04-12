@@ -13,6 +13,9 @@ UK bio bank:  https://www.ukbiobank.ac.uk/
 ***Euro bioimaging : https://www.eurobioimaging.eu/data/itr
 
 
+Stanford AIMI: https://aimi.stanford.edu/shared-datasets
+AIMI dataset index : https://aimidatasetindex.stanford.edu/
+
 
 #
 ### Body parts
