@@ -1,7 +1,7 @@
 
 ### Forum for imaging scientist
 
-image.sc
+Image.sc
 
 
 ### Data Collection   
