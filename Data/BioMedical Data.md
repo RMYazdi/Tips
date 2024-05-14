@@ -25,6 +25,10 @@ AIMI dataset index : https://aimidatasetindex.stanford.edu/
 
 
 #
+
+### Full body
+CT Scan: https://www.nature.com/articles/s41597-024-03337-6
+
 ### Body parts
 
 Thyroid ultrasoun :https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9287/92870W/An-open-access-thyroid-ultrasound-image-database/10.1117/12.2073532.short?SSO=1
